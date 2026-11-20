@@ -1,0 +1,124 @@
+{
+  "name": "Khwarizmi Scholarship & Financial Aid",
+  "shortName": "Khwarizmi",
+  "tagline": "Scholarships, awards and grants for students",
+  "description": "We turn donations into scholarships, awards and grants for students who could not otherwise afford to study.",
+  "locale": "en-US",
+  "timezone": "UTC",
+  "currency": "USD",
+  "siteUrl": "",
+  "staffEmail": "[[staff mailbox]]",
+  "postalAddress": "[[Registered address]]",
+  "legalLine": "[[Legal name and registration number]]",
+  "nav": [
+    {
+      "label": "Programs",
+      "to": "/programs/"
+    },
+    {
+      "label": "How to apply",
+      "to": "/apply/"
+    },
+    {
+      "label": "Impact",
+      "to": "/impact/"
+    },
+    {
+      "label": "Finances",
+      "to": "/finances/"
+    },
+    {
+      "label": "News",
+      "to": "/news/"
+    },
+    {
+      "label": "About",
+      "to": "/about/"
+    }
+  ],
+  "analytics": {
+    "enabled": false,
+    "scriptSrc": "",
+    "note": "Leave disabled until the Foundation chooses a privacy-friendly analytics service. When enabled, the script loads only after a visitor accepts."
+  },
+  "brand": {
+    "light": {
+      "paper": "#F7F8FD",
+      "card": "#FFFFFF",
+      "surface": "#EDF1FB",
+      "line": "#DDE3F3",
+      "ink": "#0A1033",
+      "inkSoft": "#475C8B",
+      "link": "#1F5FE0",
+      "brand": "#1F5FE0",
+      "brandHover": "#1749B8",
+      "onBrand": "#FFFFFF",
+      "tint": "#E7EEFF",
+      "iconInk": "#1B4FC4",
+      "warm": "#F4A81D",
+      "warmBg": "#FFF0CC",
+      "warmInk": "#7A4200",
+      "band": "#0E1A4B",
+      "onBand": "#FFFFFF",
+      "onBandSoft": "#C9D2F3",
+      "marker": "#FFEF5C",
+      "onMarker": "#0A1033",
+      "tickStudents": "#FFEF5C",
+      "tickOperations": "#B4C3F7",
+      "tickFundraising": "#6E80D0",
+      "fieldBorder": "#5F6B9B",
+      "focus": "#1F5FE0",
+      "focusOnBand": "#FFEF5C",
+      "openInk": "#0B5A2C",
+      "openBg": "#DDF4E5",
+      "upcomingInk": "#1A4FC0",
+      "upcomingBg": "#E4EAFF",
+      "closedInk": "#475C8B",
+      "closedBg": "#E8EBF5",
+      "errorInk": "#8A1C1C",
+      "errorBg": "#FDE9E9",
+      "deco": "#D0DFFF",
+      "decoSoft": "#D4E1FF",
+      "shadow": "rgba(10, 16, 51, .14)"
+    },
+    "dark": {
+      "paper": "#0A0F26",
+      "card": "#121A3B",
+      "surface": "#0E1530",
+      "line": "#252F60",
+      "ink": "#F1F4FF",
+      "inkSoft": "#AFBBE3",
+      "link": "#9DBBFF",
+      "brand": "#6C9CFF",
+      "brandHover": "#8DB2FF",
+      "onBrand": "#071030",
+      "tint": "#1B2758",
+      "iconInk": "#B3CBFF",
+      "warm": "#F4B83C",
+      "warmBg": "#3B2B0B",
+      "warmInk": "#FFD98A",
+      "band": "#050A22",
+      "onBand": "#FFFFFF",
+      "onBandSoft": "#C0C9EE",
+      "marker": "#FFEF5C",
+      "onMarker": "#0A0F26",
+      "tickStudents": "#FFEF5C",
+      "tickOperations": "#B4C3F7",
+      "tickFundraising": "#6E80D0",
+      "fieldBorder": "#8795CC",
+      "focus": "#FFEF5C",
+      "focusOnBand": "#FFEF5C",
+      "openInk": "#9FE8BA",
+      "openBg": "#0F3A22",
+      "upcomingInk": "#BBC9FF",
+      "upcomingBg": "#1B2A78",
+      "closedInk": "#C3CBEE",
+      "closedBg": "#232C5E",
+      "errorInk": "#FFB9B9",
+      "errorBg": "#4A1414",
+      "deco": "#1D2858",
+      "decoSoft": "#222D61",
+      "shadow": "rgba(0, 0, 0, .5)"
+    }
+  }
+}
