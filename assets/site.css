@@ -1,5 +1,7 @@
-:root{--paper:#F7F8FD;--card:#FFFFFF;--surface:#EDF1FB;--line:#DDE3F3;--ink:#0A1033;--ink-soft:#475C8B;--link:#1F5FE0;--brand:#1F5FE0;--brand-hover:#1749B8;--on-brand:#FFFFFF;--tint:#E7EEFF;--icon-ink:#1B4FC4;--warm:#F4A81D;--warm-bg:#FFF0CC;--warm-ink:#7A4200;--band:#0E1A4B;--on-band:#FFFFFF;--on-band-soft:#C9D2F3;--marker:#FFEF5C;--on-marker:#0A1033;--tick-students:#FFEF5C;--tick-operations:#B4C3F7;--tick-fundraising:#6E80D0;--field-border:#5F6B9B;--focus:#1F5FE0;--focus-on-band:#FFEF5C;--open-ink:#0B5A2C;--open-bg:#DDF4E5;--upcoming-ink:#1A4FC0;--upcoming-bg:#E4EAFF;--closed-ink:#475C8B;--closed-bg:#E8EBF5;--error-ink:#8A1C1C;--error-bg:#FDE9E9;--deco:#D0DFFF;--deco-soft:#D4E1FF;--shadow:rgba(10, 16, 51, .14);color-scheme:light dark}
-@media (prefers-color-scheme:dark){:root{--paper:#0A0F26;--card:#121A3B;--surface:#0E1530;--line:#252F60;--ink:#F1F4FF;--ink-soft:#AFBBE3;--link:#9DBBFF;--brand:#6C9CFF;--brand-hover:#8DB2FF;--on-brand:#071030;--tint:#1B2758;--icon-ink:#B3CBFF;--warm:#F4B83C;--warm-bg:#3B2B0B;--warm-ink:#FFD98A;--band:#050A22;--on-band:#FFFFFF;--on-band-soft:#C0C9EE;--marker:#FFEF5C;--on-marker:#0A0F26;--tick-students:#FFEF5C;--tick-operations:#B4C3F7;--tick-fundraising:#6E80D0;--field-border:#8795CC;--focus:#FFEF5C;--focus-on-band:#FFEF5C;--open-ink:#9FE8BA;--open-bg:#0F3A22;--upcoming-ink:#BBC9FF;--upcoming-bg:#1B2A78;--closed-ink:#C3CBEE;--closed-bg:#232C5E;--error-ink:#FFB9B9;--error-bg:#4A1414;--deco:#1D2858;--deco-soft:#222D61;--shadow:rgba(0, 0, 0, .5);}}
+:root{--paper:#F7F8FD;--card:#FFFFFF;--surface:#EDF1FB;--line:#DDE3F3;--ink:#0A1033;--ink-soft:#475C8B;--link:#1F5FE0;--brand:#1F5FE0;--brand-hover:#1749B8;--on-brand:#FFFFFF;--tint:#E7EEFF;--icon-ink:#1B4FC4;--warm:#F4A81D;--warm-bg:#FFF0CC;--warm-ink:#7A4200;--band:#0E1A4B;--on-band:#FFFFFF;--on-band-soft:#C9D2F3;--marker:#FFEF5C;--on-marker:#0A1033;--tick-students:#FFEF5C;--tick-operations:#B4C3F7;--tick-fundraising:#6E80D0;--field-border:#5F6B9B;--focus:#1F5FE0;--focus-on-band:#FFEF5C;--open-ink:#0B5A2C;--open-bg:#DDF4E5;--upcoming-ink:#1A4FC0;--upcoming-bg:#E4EAFF;--closed-ink:#475C8B;--closed-bg:#E8EBF5;--error-ink:#8A1C1C;--error-bg:#FDE9E9;--deco:#D0DFFF;--deco-soft:#D4E1FF;--shadow:rgba(10, 16, 51, .14);color-scheme:light}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--paper:#0A0F26;--card:#121A3B;--surface:#0E1530;--line:#252F60;--ink:#F1F4FF;--ink-soft:#AFBBE3;--link:#9DBBFF;--brand:#6C9CFF;--brand-hover:#8DB2FF;--on-brand:#071030;--tint:#1B2758;--icon-ink:#B3CBFF;--warm:#F4B83C;--warm-bg:#3B2B0B;--warm-ink:#FFD98A;--band:#050A22;--on-band:#FFFFFF;--on-band-soft:#C0C9EE;--marker:#FFEF5C;--on-marker:#0A0F26;--tick-students:#FFEF5C;--tick-operations:#B4C3F7;--tick-fundraising:#6E80D0;--field-border:#8795CC;--focus:#FFEF5C;--focus-on-band:#FFEF5C;--open-ink:#9FE8BA;--open-bg:#0F3A22;--upcoming-ink:#BBC9FF;--upcoming-bg:#1B2A78;--closed-ink:#C3CBEE;--closed-bg:#232C5E;--error-ink:#FFB9B9;--error-bg:#4A1414;--deco:#1D2858;--deco-soft:#222D61;--shadow:rgba(0, 0, 0, .5);color-scheme:dark}}
+:root[data-theme="dark"]{--paper:#0A0F26;--card:#121A3B;--surface:#0E1530;--line:#252F60;--ink:#F1F4FF;--ink-soft:#AFBBE3;--link:#9DBBFF;--brand:#6C9CFF;--brand-hover:#8DB2FF;--on-brand:#071030;--tint:#1B2758;--icon-ink:#B3CBFF;--warm:#F4B83C;--warm-bg:#3B2B0B;--warm-ink:#FFD98A;--band:#050A22;--on-band:#FFFFFF;--on-band-soft:#C0C9EE;--marker:#FFEF5C;--on-marker:#0A0F26;--tick-students:#FFEF5C;--tick-operations:#B4C3F7;--tick-fundraising:#6E80D0;--field-border:#8795CC;--focus:#FFEF5C;--focus-on-band:#FFEF5C;--open-ink:#9FE8BA;--open-bg:#0F3A22;--upcoming-ink:#BBC9FF;--upcoming-bg:#1B2A78;--closed-ink:#C3CBEE;--closed-bg:#232C5E;--error-ink:#FFB9B9;--error-bg:#4A1414;--deco:#1D2858;--deco-soft:#222D61;--shadow:rgba(0, 0, 0, .5);color-scheme:dark}
+:root[data-theme="light"]{color-scheme:light}
 
 @font-face { font-family: "Inter"; src: url(fonts/inter-regular.woff) format("woff"); font-weight: 400; font-style: normal; font-display: optional; }
 @font-face { font-family: "Inter"; src: url(fonts/inter-bold.woff) format("woff"); font-weight: 700; font-style: normal; font-display: optional; }
@@ -120,19 +122,19 @@ a.brand { display: inline-flex; align-items: center; gap: .65rem; margin-inline-
 .hero-side { display: contents; }
 .hero-copy { max-width: 46rem; text-align: center; }
 .hero h1 { font-size: clamp(2.25rem, 1.2rem + 3.5vw, 3.4rem); line-height: 1.06; letter-spacing: -.035em; }
-.h1-name { display: block; }
+.h1-name { display: inline; }
 .hero .lede { max-width: 34rem; margin: 1.25rem auto 0; color: var(--ink-soft); font-size: clamp(1.0625rem, 1rem + .4vw, 1.25rem); line-height: 1.55; text-wrap: balance; }
 .hero .actions { justify-content: center; margin-top: 2rem; }
 @media (max-width: 39.99rem) {
   .hero .actions { display: grid; grid-template-columns: minmax(0, 20rem); }
 }
-.stat { position: relative; width: min(100%, 20rem); padding: .9rem 1rem 1rem; border: 1px solid var(--line); border-radius: var(--r-xl); background: var(--paper); color: var(--ink-soft); font-size: .75rem; line-height: 1.35; }
+.stat { position: relative; width: min(100%, 20rem); padding: .9rem 1rem 1rem; border: 1px solid var(--line); border-radius: var(--r-xl); background: var(--paper); color: var(--ink-soft); font-size: .6rem; line-height: 1.35; }
 .stat:hover { border-color: color-mix(in srgb, var(--brand) 30%, var(--line)); }
 .stat-h { margin: 0; font: inherit; letter-spacing: normal; }
 .stat-h a { display: grid; gap: .05rem; color: inherit; text-decoration: none; }
 .stat-h a::after { content: ""; position: absolute; inset: 0; border-radius: inherit; }
 .stat-h a:hover .what { text-decoration: underline; }
-.stat .big { color: var(--ink-soft); font: 700 1.25rem/1.1 var(--font); letter-spacing: -.02em; font-variant-numeric: tabular-nums; }
+.stat .big { color: var(--ink-soft); font: 700 1.1rem/1.1 var(--font); letter-spacing: -.02em; font-variant-numeric: tabular-nums; }
 .stat .what { font-size: .75rem; line-height: 1.3; }
 .stat-lines { display: grid; margin: .7rem 0 0; padding: 0; list-style: none; }
 .stat-lines li { display: grid; grid-template-columns: 1.5rem minmax(0, 1fr) auto; align-items: center; gap: .5rem; padding-block: .25rem; }
@@ -140,7 +142,7 @@ a.brand { display: inline-flex; align-items: center; gap: .65rem; margin-inline-
 .stat-lines .tile .ico { width: .875rem; height: .875rem; }
 .stat-lines .out .tile { background: transparent; box-shadow: inset 0 0 0 1px var(--line); }
 .stat-lines .name { min-width: 0; overflow-wrap: anywhere; }
-.stat-lines .when { display: block; font-size: .75rem; line-height: 1.3; }
+.stat-lines .when { display: block; font-size: .7rem; line-height: 1.3; }
 .stat-lines .val { font-variant-numeric: tabular-nums; white-space: nowrap; }
 .students, .donors, .flow, .branch, .link { display: none; }
 .students { width: var(--pic-s, 14.5rem); padding: 1rem; border: 1px solid var(--line); border-radius: var(--r-xl); background: var(--paper); }
@@ -174,7 +176,7 @@ a.brand { display: inline-flex; align-items: center; gap: .65rem; margin-inline-
 .rail { flex: 1; height: 2px; background: var(--deco); }
 .hub { display: grid; place-items: center; width: 3rem; height: 3rem; border-radius: .9rem; background: var(--soft-tint); }
 .hub img { width: 1.4rem; height: 1.4rem; opacity: .55; }
-@media (min-width: 40rem) {
+@media (min-width: 20rem) {
   .hero-grid { grid-template-columns: repeat(2, minmax(0, 18rem)); justify-content: center; column-gap: 1.5rem; }
   .hero-copy { grid-column: 1 / -1; }
   .stat-students { justify-self: end; }
@@ -189,12 +191,12 @@ a.brand { display: inline-flex; align-items: center; gap: .65rem; margin-inline-
     justify-items: stretch; align-items: start; column-gap: 0; row-gap: 3rem;
   }
   .hero h1 { font-size: clamp(2.75rem, 4.4vw, 4rem); line-height: 1.04; letter-spacing: -.04em; }
-  .hero .lede { max-width: 28rem; font-size: 1.125rem; }
+  .hero .lede { max-width: 40rem; font-size: 1.125rem; }
   .hero-copy { grid-column: 2 / 5; grid-row: 1; justify-self: center; }
   .hero-side { display: flex; flex-direction: column; gap: 3.5rem; grid-row: 1 / 3; align-self: stretch; }
   .hero-side-start { grid-column: 1; }
   .hero-side-end { grid-column: 5; }
-  .stat { width: 14.5rem; }
+  .stat { width: 12.5rem; }
   .hero-side-start .stat { align-self: flex-start; }
   .hero-side-end .stat { align-self: flex-end; }
   .students, .donors { display: block; margin-block-start: auto; }
@@ -421,6 +423,66 @@ tfoot th, tfoot td { border-top: 2px solid var(--rule); border-bottom: 0; backgr
 }
 @media (prefers-reduced-motion: no-preference) { html { scroll-behavior: smooth; } }
 
+/* Give the hero title more space on medium desktop screens */
+@media (min-width: 64rem) and (max-width: 79.99rem) {
+  .hero-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    column-gap: 1.5rem;
+  }
+
+  .hero-copy {
+    grid-column: 1 / -1;
+    grid-row: 1;
+    width: 100%;
+    max-width: 58rem;
+  }
+
+  .hero-side {
+    display: contents;
+  }
+
+  .hero-side-start .stat {
+    grid-column: 1;
+    grid-row: 2;
+    justify-self: end;
+  }
+
+  .hero-side-end .stat {
+    grid-column: 2;
+    grid-row: 2;
+    justify-self: start;
+  }
+
+  .students,
+  .donors,
+  .flow,
+  .branch,
+  .link {
+    display: none !important;
+  }
+
+  .hero h1 {
+    font-size: clamp(2.5rem, 3.6vw, 3.2rem);
+  }
+}
+
+/* Widen the central title area on larger screens */
+@media (min-width: 80rem) {
+  .hero-grid {
+    --side: 13rem;
+    --panel: 9rem;
+    --pic-s: 11rem;
+    --pic-d: 12rem;
+  }
+
+  .hero-copy {
+    max-width: 48rem;
+  }
+
+  .hero h1 {
+    font-size: clamp(2.5rem, 3.6vw, 3.4rem);
+  }
+}
 
 .strip {
   display: none !important;
