@@ -1,0 +1,134 @@
+{
+  "mode": "staging",
+  "builtAt": "2026-11-20T10:15:26.256Z",
+  "pages": 28,
+  "programs": {
+    "open": 2,
+    "upcoming": 1,
+    "closed": 1
+  },
+  "stories": 2,
+  "news": 3,
+  "sampleFiles": [
+    "content/pages/about.md",
+    "content/pages/accessibility.md",
+    "content/pages/apply-faq.md",
+    "content/pages/apply.md",
+    "content/pages/contact.md",
+    "content/pages/donate.md",
+    "content/pages/finances.md",
+    "content/pages/home.md",
+    "content/pages/partner.md",
+    "content/pages/privacy.md",
+    "content/pages/terms.md",
+    "content/programs/emergency-fund.md",
+    "content/programs/graduate-research-grant.md",
+    "content/programs/undergraduate-award.md",
+    "content/programs/vocational-training-scholarship.md",
+    "content/data/impact-2023.md",
+    "content/data/impact-2024.md",
+    "content/data/impact-2025.md",
+    "content/reports/2023.md",
+    "content/reports/2024.md",
+    "content/reports/2025.md",
+    "content/stories/jonas-emergency-2025.md",
+    "content/stories/maryam-undergraduate-2025.md",
+    "content/stories/waiting-for-consent.md",
+    "content/news/2026-03-10-emergency-fund-open-all-year.md",
+    "content/news/2026-06-30-annual-report-2025.md",
+    "content/news/2026-09-01-undergraduate-award-opens.md"
+  ],
+  "stubPages": [
+    "content/pages/apply-start.md",
+    "content/pages/donate.md"
+  ],
+  "placeholderFiles": [
+    {
+      "file": "content/site.json",
+      "count": 3
+    },
+    {
+      "file": "content/pages/about.md",
+      "count": 5
+    },
+    {
+      "file": "content/pages/accessibility.md",
+      "count": 3
+    },
+    {
+      "file": "content/pages/apply-faq.md",
+      "count": 5
+    },
+    {
+      "file": "content/pages/apply.md",
+      "count": 7
+    },
+    {
+      "file": "content/pages/contact.md",
+      "count": 1
+    },
+    {
+      "file": "content/pages/donate.md",
+      "count": 4
+    },
+    {
+      "file": "content/pages/finances.md",
+      "count": 4
+    },
+    {
+      "file": "content/pages/partner.md",
+      "count": 5
+    },
+    {
+      "file": "content/pages/privacy.md",
+      "count": 9
+    },
+    {
+      "file": "content/pages/terms.md",
+      "count": 5
+    },
+    {
+      "file": "content/programs/emergency-fund.md",
+      "count": 5
+    },
+    {
+      "file": "content/programs/graduate-research-grant.md",
+      "count": 6
+    },
+    {
+      "file": "content/programs/undergraduate-award.md",
+      "count": 9
+    },
+    {
+      "file": "content/programs/vocational-training-scholarship.md",
+      "count": 3
+    },
+    {
+      "file": "content/data/impact-2025.md",
+      "count": 1
+    },
+    {
+      "file": "content/stories/jonas-emergency-2025.md",
+      "count": 1
+    },
+    {
+      "file": "content/stories/maryam-undergraduate-2025.md",
+      "count": 1
+    },
+    {
+      "file": "content/news/2026-03-10-emergency-fund-open-all-year.md",
+      "count": 1
+    },
+    {
+      "file": "content/news/2026-06-30-annual-report-2025.md",
+      "count": 1
+    },
+    {
+      "file": "content/news/2026-09-01-undergraduate-award-opens.md",
+      "count": 1
+    }
+  ],
+  "warnings": [
+    "content/stories/waiting-for-consent.md: not published. Consent is not recorded. Add \"consent: true\" and \"consentRecorded: YYYY-MM-DD\" once the signed consent is on file."
+  ]
+}

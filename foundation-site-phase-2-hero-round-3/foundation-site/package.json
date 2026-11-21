@@ -18,7 +18,7 @@
     "samples": "node scripts/make-sample-reports.mjs"
   },
   "dependencies": {
-    "marked": "^18.0.0"
+    "marked": "^18.2.1"
   },
   "devDependencies": {
     "playwright": "^1.63.0"

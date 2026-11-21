@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <title>Khwarizmi</title>
+  <defs>
+    <linearGradient id="g" x1="6" y1="58" x2="58" y2="6" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2B5FEF"/>
+      <stop offset="1" stop-color="#47A3FF"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" stroke="url(#g)" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M37 23.5H29.5a7 7 0 0 0-7 7v7a7 7 0 0 0 7 7H37" stroke-width="10.5" transform="rotate(-12 30 34)"/>
+    <path d="M40.5 20 55 6.5" stroke-width="4.2"/>
+    <path d="M21 48 9 59.5" stroke-width="4.2"/>
+    <path d="M49.5 26v11" stroke-width="4.6" transform="rotate(-35 49.5 32)"/>
+  </g>
+  <g fill="url(#g)">
+    <rect x="21.2" y="5.2" width="8.5" height="8.5" rx="2.6" transform="rotate(30 25.45 9.45)"/>
+    <rect x="4.3" y="18.7" width="8.5" height="8.5" rx="2.6" transform="rotate(30 8.55 22.95)"/>
+    <rect x="36" y="51.5" width="8.5" height="8.5" rx="2.6" transform="rotate(30 40.25 55.75)"/>
+  </g>
+</svg>

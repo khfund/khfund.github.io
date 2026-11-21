@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>News from Khwarizmi Scholarship &amp; Financial Aid</title>
+  <id>/feed.xml</id>
+  <link rel="self" href="/feed.xml"/>
+  <link href="/news/"/>
+  <updated>2026-09-01T00:00:00Z</updated>
+  <entry>
+    <title>Applications for the Undergraduate Award are open</title>
+    <id>/news/undergraduate-award-opens/</id>
+    <link href="/news/undergraduate-award-opens/"/>
+    <updated>2026-09-01T00:00:00Z</updated>
+    <summary>Applications close on March 31, 2027. Here is what to prepare.</summary>
+  </entry>
+  <entry>
+    <title>Our 2025 annual report is published</title>
+    <id>/news/annual-report-2025/</id>
+    <link href="/news/annual-report-2025/"/>
+    <updated>2026-06-30T00:00:00Z</updated>
+    <summary>Read where the money went, and download the full report.</summary>
+  </entry>
+  <entry>
+    <title>The Emergency Fund is open all year</title>
+    <id>/news/emergency-fund-open-all-year/</id>
+    <link href="/news/emergency-fund-open-all-year/"/>
+    <updated>2026-03-10T00:00:00Z</updated>
+    <summary>Students facing a sudden cost can apply at any time.</summary>
+  </entry>
+</feed>
