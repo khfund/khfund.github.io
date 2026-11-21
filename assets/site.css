@@ -420,3 +420,8 @@ tfoot th, tfoot td { border-top: 2px solid var(--rule); border-bottom: 0; backgr
   a:not(.btn)[href^="http"]::after { content: " (" attr(href) ")"; font-size: .85em; }
 }
 @media (prefers-reduced-motion: no-preference) { html { scroll-behavior: smooth; } }
+
+
+.strip {
+  display: none !important;
+}
